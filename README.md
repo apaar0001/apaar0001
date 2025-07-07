@@ -31,11 +31,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apaar0001&show_icons=true&theme=radical" alt="Apaar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apaar0001&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaar0001&layout=compact&theme=radical" alt="Apaar's language stats" />
 </p>
 
 ---
@@ -74,4 +73,3 @@
 ---
 
 > “The best way to predict the future is to invent it.” – Alan Kay
-
